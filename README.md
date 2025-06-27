@@ -1,1 +1,1 @@
-# odin-receipess
+# od
